@@ -1,11 +1,9 @@
 # Android Application Market Data Analysis
 *CSEN1095 Course Final Project*
 
-In This Project We Try To Analyze The Data Set Of The Android Application Available On The Google Play Store, Provided [Here](https://www.datacamp.com/projects/619).
+In this project, we analyze the The Android Apps market, using the data set provided here: (https://www.datacamp.com/projects/619).
 
 ### Questions:-
-
-By Analyzing The Data Set, We Try To Find Answers To The Following Questions :-
 
 - Q1: What is the possibility of a paid art & design-genre application gets installed over 10000 times ?
 - Q2: What is the possibility of a business-genre application that is installed over 1000 times gets a rating of 4.4 or more ?
@@ -14,10 +12,10 @@ By Analyzing The Data Set, We Try To Find Answers To The Following Questions :-
 
 ### Steps :-
 
- - Cleaning The Data
- - Reduction Of The Data
- - Visualization Of The Data
- - Constructing The Answers.
+ - Cleaning the Data
+ - Reduction of the Data
+ - Visualization of the Data
+ - Concluding the answers.
  
 ## Team Members :-
 
@@ -30,4 +28,4 @@ Number: **21**
 | Ahmed Adel Fathy Mahmoud | 37-18728 |
 | Ahmed Shawky Ahmed | 37-6656 |
 | Nour ElDin Yehia | 37-14536 |
-| Shady Ayman | 37-14536 |
+| Shadi Ayman Barghash | 37-1101 |
