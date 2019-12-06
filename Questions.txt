@@ -1,0 +1,4 @@
+- Q1: What is the possibility of a paid art & design-genre application gets installed over 10000 times ?
+- Q2: What is the possibility of a business-genre application that is installed over 1000 times gets a rating of 4.4 or more ?
+- Q3: Find the number of dating apps installed per content rating (eg. Mature, Teen... etc).
+- Q4: What is the possibility of a music-genre app over the size of 30 MB gets a rating of 4.0 or more ?
