@@ -1,7 +1,7 @@
 # Android Application Market Data Analysis
 *CSEN1095 Course Final Project*
 
-In this project, we try to analyze the The Android Apps market, using the data set provided here: (https://www.datacamp.com/projects/619).
+In this project, we analyze the The Android Apps market, using the data set provided here: (https://www.datacamp.com/projects/619).
 
 ### Questions:-
 
@@ -28,4 +28,4 @@ Number: **21**
 | Ahmed Adel Fathy Mahmoud | 37-18728 |
 | Ahmed Shawky Ahmed | 37-6656 |
 | Nour ElDin Yehia | 37-14536 |
-| Shady Ayman | 37-14536 |
+| Shadi Ayman Barghash | 37-1101 |
